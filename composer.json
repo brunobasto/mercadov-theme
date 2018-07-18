@@ -1,5 +1,5 @@
 {
-    "name": "MercadoV/mercadov",
+    "name": "mercadov/mercadov-theme",
     "description": "N/A",
     "require": {
         "php": "~7.0.13|~7.1.0",
