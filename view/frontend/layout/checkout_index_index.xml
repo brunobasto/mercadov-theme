@@ -11,6 +11,9 @@
 									<item name="children" xsi:type="array">
 										<item name="shipping-step" xsi:type="array">
 											<item name="children" xsi:type="array">
+												<item name="company" xsi:type="array">
+													<item name="visible" xsi:type="boolean">false</item>
+												</item>
 												<item name="shippingAddress" xsi:type="array">
 													<item name="children" xsi:type="array">
 														<!-- The name of the form the field belongs to -->
@@ -18,9 +21,6 @@
 															<item name="children" xsi:type="array">
 																<!--Remove fields-->
 																<item name="telephone" xsi:type="array">
-																	<item name="visible" xsi:type="boolean">false</item>
-																</item>
-																<item name="company" xsi:type="array">
 																	<item name="visible" xsi:type="boolean">false</item>
 																</item>
 															</item>
